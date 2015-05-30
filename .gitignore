@@ -1,0 +1,4 @@
+MyFile.txt
+*.tmp
+MyFolder/
+.DS_Store
