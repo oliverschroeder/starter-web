@@ -14,4 +14,5 @@ As stated above: this is an example.
 
 ## How to Contribute
 
-Contribution is not possible.
+Contribution is not possible. This is just a test project.
+
