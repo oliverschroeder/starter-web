@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Oliver
+    Oliver Schröder
 
 # THANKS
 
-    <name>
+    Jason Taylor
 
 # TECHNOLOGY COLOPHON
 
