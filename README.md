@@ -1,6 +1,7 @@
 #Starter Web Project
 
 This is a simple website project. Adding some text for rebasing example, and add some changes in the feature 1 branch too.
+Updating a fix after stashing ...
 
 ## Introduction
 
