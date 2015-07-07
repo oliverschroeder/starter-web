@@ -17,3 +17,7 @@ As stated above: this is an example.
 Contribution is not possible. This is just a test project.
 
 Yadda yadda yadda
+
+## Copyright
+
+Copyright 2015
