@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Jason Taylor
+    Jason Taylor, git-training
 
 # TECHNOLOGY COLOPHON
 
